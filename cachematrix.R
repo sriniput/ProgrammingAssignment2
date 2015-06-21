@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-  ## Add code here
+  ## Add code here for caching matrix
 
 }
 
